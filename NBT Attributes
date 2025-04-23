@@ -1,0 +1,138 @@
+    Here's a comprehensive list of the primary NBT attributes applicable to items:
+
+
+---
+
+🧱 Base Item Attributes
+
+Name: 
+
+Count: 
+
+Damage: 
+
+Slot: 
+
+CanDestroy: 
+
+CanPlaceOn: 
+
+WasPickedUp:  
+
+
+
+---
+
+🏷️ tag Compound Attributes
+
+ 
+
+display:
+
+Name: 
+
+Lore: 
+
+
+ench: 
+
+id: 
+
+lvl: 
+
+
+Unbreakable: 
+
+RepairCost: 
+
+minecraft:item_lock: 
+
+minecraft:keep_on_death:  
+
+
+
+---
+
+🎨 Item-Specific Attributes
+
+Some items have unique NBT attributes:
+
+Armor Trims:
+
+Trim:
+
+Material: The material used for the trim.
+
+Pattern: The pattern applied to the armor.
+
+
+
+Books:
+
+author: 
+
+title: 
+
+pages: 
+
+generation: 
+
+
+Potions:
+
+wasJustBrewed: 
+
+
+Shields:
+
+Base: 
+
+Patterns: 
+
+Pattern: The pattern type.
+
+Color: The color of the pattern.
+
+
+
+Lodestone Compass:
+
+trackingHandle:  
+
+
+
+
+---
+
+🔒 HideFlags Attribute
+
+   
+
+1: 
+
+2: 
+
+4: 
+
+8: 
+
+16: 
+
+32: 
+
+64: 
+
+128:  
+
+
+ 
+
+"HideFlags": 3
+
+
+
+
+---
+
+ 
+
